@@ -1,0 +1,21 @@
+.employees-grid{
+	flex: 2; /* prostor za grid*/
+	color:#821111;
+	border-color: blue;
+	border-style:dotted;
+	
+}
+
+.divContent{
+	display: flex;
+	background:#c9fdff;
+}
+
+.employees-form{
+	flex: 0.7; /* prostor predvidjen za formu*/
+	padding: var(--lumo-space-m);
+		
+}
+
+
+}
