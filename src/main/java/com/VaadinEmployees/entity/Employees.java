@@ -20,7 +20,7 @@ public class Employees {
 	
 	@Id
 	@Column
-	@GeneratedValue(strategy = GenerationType.AUTO) //IDENTITY
+	@GeneratedValue(strategy = GenerationType.IDENTITY) 
 	private Integer id;
 	
 	@Column

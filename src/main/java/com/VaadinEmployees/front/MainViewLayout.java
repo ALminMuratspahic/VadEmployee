@@ -23,7 +23,6 @@ public class MainViewLayout extends AppLayout{
 	Tabs tabs = new Tabs();
 	
 	public MainViewLayout() {
-		
 		Image img =
 				new Image("https://www.flaticon.com/svg/vstatic/svg/197/197524.svg?"
 						+ "token=exp=1617300187~hmac=7875c9ece3b1f0a4acc061913d78869d", "Flag");
